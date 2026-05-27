@@ -7,4 +7,4 @@ Open curricula for community resilience and digital literacy blog: https://cultu
 What I’m Building: Youth‑centered digital tools for life skills and navigation
 WOTC clarity layers and employer‑youth bridges
 Community‑driven civic literacy resources
-Low‑bandwidth, accessible learning environments
+Low‑bandwidth, accessible learning environments. https://skillstack.idaho.gov/d19350d0-a54f-4957-8dde-2a7ca29ba354
